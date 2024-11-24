@@ -24,6 +24,7 @@ which serves as entrypoint to the functionality provided by various lower-level 
 [`gix-config`](https://github.com/GitoxideLabs/gitoxide/blob/main/crate-status.md#gix-config).
 
 ### Feature Discovery
+## By Mudassir Alam
 
 > Can `gix` do what I need it to do?
 
